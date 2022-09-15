@@ -10,12 +10,9 @@ How to use Terraform for Flexiblengine:
 Steps:
 
        1- $terraform init           #for Initialization.
-       
-       2- $terraform plan           #to view what will created
-       
-       3- $terraform apply          #Actually create on cloud   
-       
-       4- $terraform destroy        #to delete what you created
+       2- $terraform plan           #to view what will created.
+       3- $terraform apply          #Actually create on cloud.
+       4- $terraform destroy        #to delete what you created.
        
        
 Reference:
