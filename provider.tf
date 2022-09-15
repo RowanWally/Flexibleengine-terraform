@@ -8,9 +8,9 @@ terraform {
   }
 }
 provider "flexibleengine" {
-  access_key  = "WF2IJGNAHHNP6MPH22UI" 
+  access_key  = "AK" 
   #add from Console under Cred
-  secret_key  = "83yvoxnDC6ZbAJgKHU6QEsPNUq5Sny6BHjDsQMj6"
+  secret_key  = "SK"
   #add from Console under Cred
   domain_name = "OCB0005121"
   auth_url    = "https://iam.eu-west-0.prod-cloud-ocb.orange-business.com/v3"
