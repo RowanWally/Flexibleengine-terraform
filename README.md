@@ -1,4 +1,4 @@
-# Flexibleengine-terraform
+# Flexibleengine Terraform
 
 How to use Terraform for Flexiblengine:
 
