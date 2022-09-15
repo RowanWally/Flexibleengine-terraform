@@ -1,6 +1,6 @@
-# Flexibleengine Terraform
+# FlexibleEngine Terraform
 
-How to use Terraform for Flexiblengine:
+How to use Terraform for FlexibleEngine:
 
        1- Create ECS.
        2- Create VPC and Subnet.
